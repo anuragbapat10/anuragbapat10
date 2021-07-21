@@ -87,3 +87,5 @@ I am a Computer Science student at Vidyalankar Institute of Technology, Wadala, 
       <img src="https://img.icons8.com/fluent/48/000000/linkedin.png/">
     </a>
   </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbapat10&theme=gruvbox)](https://github.com/anuragbapat10/github-readme-stats)
