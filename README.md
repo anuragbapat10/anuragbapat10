@@ -88,4 +88,6 @@ I am a Computer Science student at Vidyalankar Institute of Technology, Wadala, 
     </a>
   </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbapat10&theme=gruvbox)](https://github.com/anuragbapat10/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbapat10)](https://github.com/anuragbapat10/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbapat10&langs_count=5&layout=compact)](https://github.com/anuragbapat10/github-readme-stats)
