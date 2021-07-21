@@ -75,7 +75,8 @@ I am a Computer Science student at Vidyalankar Institute of Technology, Wadala, 
       </a>
     </p>
 
-#### Social Profiles
+#### Get In Touch
+##### Social Profiles
   <p>
     <a href='https://twitter.com/anuragbapat10'>
       <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
@@ -85,6 +86,13 @@ I am a Computer Science student at Vidyalankar Institute of Technology, Wadala, 
     </a>
     <a href='https://www.linkedin.com/in/anurag-bapat-2367661b1/'>
       <img src="https://img.icons8.com/fluent/48/000000/linkedin.png/">
+    </a>
+  </p>
+  
+##### E-Mail
+  <p>
+    <a href='mailto:anuragbapat1006@gmail.com'>
+      <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
     </a>
   </p>
 
