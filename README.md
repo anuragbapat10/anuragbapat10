@@ -1,95 +1,56 @@
-## Hi, I am Anurag Bapat 👋  
+<div align="center">
 
-<!--
-**anuragbapat10/anuragbapat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Anurag 👋
 
-Here are some ideas to get you started:
+**Software Engineer | MS CS @ USC | Ex-SWE @ Interactive Brokers**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbapat)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragbapat.work@gmail.com)
 
-I am a Computer Science student at Vidyalankar Institute of Technology, Wadala, Mumbai
+</div>
 
+---
 
-#### Skills: ###
+### About Me
 
-* #### Languages
-  <p> 
-    <a href='https://www.python.org/'>
-      <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    </a>
-    <a href='https://www.java.com/en/'>
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    </a>
-    <a href=''>
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    </a>
-  </p>
+I'm a Computer Science grad student at the **University of Southern California** (MS, 2026), with a background in backend engineering, distributed systems, and ML. Before USC, I spent a year at **Interactive Brokers** as a Software Engineer, building ETL systems, database pipelines, and stream-processing infrastructure in Java and PL/SQL.
 
-* #### Web Development
-  <p>
-    <a href=''>
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    </a>
-    <a href=''>
-      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    </a>
-    <a>
-      <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-    </a>
-    <a href='https://getbootstrap.com/'>
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    </a>
-    <a href='https://www.djangoproject.com/'>
-      <img src="https://img.icons8.com/material-outlined/24/000000/django.png"/>
-    </a>
-  </p>
+I'm drawn to work that rewards going deeper - whether that's in backend systems, low-level kernels, infrastructure or applied ML - and understanding why something behaves the way it does rather than just accepting that it does.
 
-* #### Libraries and Frameworks
-  <p>
-    <a href='https://pandas.pydata.org/'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png' width=48px height=48px>
-    </a>
-    <a>
-      <img src='https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg' height=48px width=48px>
-    </a>
-    <a> 
-      <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
-    </a>
-  </p>
-  
-* #### Other
-    <p>
-      <a href='https://git-scm.com/'>
-        <img src="https://img.icons8.com/color/48/000000/git.png"/>
-      </a>
-      <a href='https://github.com/'>
-        <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>      
-      </a>
-    </p>
+---
 
-#### Get In Touch
-##### Social Profiles
-  <p>
-    <a href='https://www.linkedin.com/in/anurag-bapat-2367661b1/'>
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png/">
-    </a>
-  </p>
-  
-##### E-Mail
-  <p>
-    <a href='mailto:anuragbapat1006@gmail.com'>
-      <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
-    </a>
-  </p>
+### 🛠 Tech Stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragbapat10)](https://github.com/anuragbapat10/github-readme-stats)
+**Languages**
+`Java` `Python` `C` `C++` `JavaScript` `SQL` `PL/SQL` `PHP`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbapat10&langs_count=5&layout=compact)](https://github.com/anuragbapat10/github-readme-stats)
+**Development**
+`Spring` `Django` `Node.js` `Express` `Laravel` `gRPC` `Apache Kafka` `Flask` `Linux/UNIX`
+
+**Databases & Infrastructure**
+`Oracle SQL` `MySQL` `MongoDB` `AWS (EC2, Lambda, S3, Rekognition)` `Jenkins` `CI/CD` `Git` `Grafana`
+
+**AI / ML**
+`PyTorch` `TensorFlow` `Scikit-learn` `NumPy` `Pandas` `OpenCV`
+
+---
+
+### 🔨 Featured Projects
+
+**Weenix - Unix-like OS Kernel**
+> Built in C. Covers process management, virtual filesystem (VFS) and virtual memory (VM) with 15+ syscalls, demand paging, copy-on-write fork via shadow objects, and memory-mapped file support. Debugged kernel concurrency issues and page faults with GDB.
+
+**Cloud-Based Emotion Recognition Pipeline**
+> Serverless, event-driven pipeline on AWS. Python Lambda + Rekognition performs sentiment analysis across 8 facial emotions from classroom snapshots. Express.js handles base64 image ingestion to S3.
+
+**Issue Reporting System**
+> Full-stack issue tracker (Laravel + Django) with microservices architecture, hierarchical commenting, and an automated ML tagging pipeline (89% validation accuracy). Research published in [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10136114).
+
+**Named Entity Recognition - BiLSTM & BiLSTM-CRF**
+> PyTorch implementation of BiLSTM and BiLSTM-CRF on CoNLL-2003. The CRF layer improved F1 from 0.820 to **0.838**, matching the benchmark - by incorporating label dependencies for sequence labeling.
+
+---
+
+<div align="center">
+  <sub>Open to SWE new grad roles starting May 2026 | Currently based in Los Angeles, CA</sub>
+</div>
