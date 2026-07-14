@@ -37,6 +37,9 @@ I'm drawn to work that rewards going deeper - whether that's in backend systems,
 
 ### 🔨 Featured Projects
 
+**GradSync: Cross-OS Distributed Model Training Framework** [[Code](https://github.com/gradsync-ml/gradsync-ml)]
+> Distributed PyTorch training engine that pools VRAM across heterogeneous Apple Silicon and NVIDIA GPUs using gRPC-based pipeline parallelism. Features dynamic Raft-based layer partitioning, asynchronous 1F1B micro-batch scheduling, and adaptive tensor compression to improve hardware utilization and reduce network bottlenecks.
+
 **Weenix - Unix-like OS Kernel**
 > Built in C. Covers process management, virtual filesystem (VFS) and virtual memory (VM) with 15+ syscalls, demand paging, copy-on-write fork via shadow objects, and memory-mapped file support. Debugged kernel concurrency issues and page faults with GDB.
 
